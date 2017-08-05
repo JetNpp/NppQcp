@@ -16,4 +16,4 @@
 | - | - |
 |__os__|windows 7 x64|
 |__compiler__|MSVC 2013 UPDATE5|
-|__ToolSet__|v120_xp|
+|__toolset__|v120_xp|

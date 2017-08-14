@@ -1,8 +1,8 @@
-﻿# NppNCQ
+﻿# NppQcp
 
 ## download
 
-[Release](https://github.com/JetNpp/NppNCQ/tree/master/bin "Release")
+[Release](https://github.com/JetNpp/NppQcp/tree/master/bin "Release")
 
 ## change log
 

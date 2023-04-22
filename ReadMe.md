@@ -7,6 +7,9 @@
 ## change log
 
 ### 2.0
+#### 2023-04-22
+- +. unify color hex display
+
 #### 2017-08-05
 - +. minor fix : glitch
 - +. x64 version
